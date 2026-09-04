@@ -47,6 +47,15 @@ $number = $_POST["number"];
         </div>
     </div>
 
+    <div class="bodycontainer">
+        <p><h4>A single cumulus cloud can weigh over 1 million pounds. Despite floating effortlessly, 
+            a typical 1-cubic-kilometer cloud contains roughly 500,000 kg of water droplets.
+        </h4></p>
+        <p><h4>Venus has a longer day than its year. It takes Venus 243 Earth days to complete one full
+             rotation on its axis, but only 225 Earth days to orbit the Sun.
+        </h4></p>
+    </div>
+
     </div>
 
     
